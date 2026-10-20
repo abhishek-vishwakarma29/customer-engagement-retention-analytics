@@ -105,3 +105,14 @@ The analysis highlights differences in churn across engagement levels and produc
 
 ## Author
 Abhishek Vishwakarma
+## Live Dashboard
+
+Explore the interactive dashboard here:
+
+[Launch Customer Engagement & Retention Analytics Dashboard](https://customer-engagement-retention-analytics-4esx9t3ydthrjcevykbbm5.streamlit.app/)
+
+## GitHub Repository
+
+Explore the complete project, including the Python code, Jupyter Notebook, dataset, and visualizations:
+
+[View Project on GitHub](https://github.com/abhishek-vishwakarma29/customer-engagement-retention-analytics)
