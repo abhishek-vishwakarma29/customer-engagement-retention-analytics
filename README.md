@@ -124,8 +124,8 @@ Explore the complete project, including the Python code, Jupyter Notebook, datas
 ### 2. Churn by Number of Products
 ![Churn by Number of Products](outputs/03_churn_by_product_count.png)
 
-### 4. Balance Distribution by Engagement
+### 3. Balance Distribution by Engagement
 ![Balance Distribution by Engagement](outputs/04_balance_by_engagement.png)
 
-### 6. Relationship Strength Index by Churn Status
+### 4. Relationship Strength Index by Churn Status
 ![Relationship Strength Index by Churn Status](outputs/06_relationship_strength_by_churn.png)
