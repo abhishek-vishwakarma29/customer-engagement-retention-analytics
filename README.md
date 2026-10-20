@@ -119,7 +119,7 @@ Explore the complete project, including the Python code, Jupyter Notebook, datas
 ## Project Visualizations
 
 ### 1. Overall Customer Churn Distribution
-![Overall Customer Churn Distribution](outputs/01_overall_churn_distribution.png)
+![Overall Customer Churn Distribution](outputs/01_customer churn distribution.png)
 
 ### 2. Customer Engagement and Churn
 ![Customer Engagement and Churn](outputs/02_churn_by_engagement.png)
@@ -131,7 +131,7 @@ Explore the complete project, including the Python code, Jupyter Notebook, datas
 ![Balance Distribution by Engagement](outputs/04_balance_by_engagement.png)
 
 ### 5. Customer Segment Churn Rates
-![Customer Segment Churn Rates](outputs/05_segment_churn_rates.png)
+![Customer Segment Churn Rates](outputs/05_churn by customer segments.png)
 
 ### 6. Relationship Strength Index by Churn Status
 ![Relationship Strength Index by Churn Status](outputs/06_relationship_strength_by_churn.png)
