@@ -116,3 +116,22 @@ Explore the interactive dashboard here:
 Explore the complete project, including the Python code, Jupyter Notebook, dataset, and visualizations:
 
 [View Project on GitHub](https://github.com/abhishek-vishwakarma29/customer-engagement-retention-analytics)
+## Project Visualizations
+
+### 1. Overall Customer Churn Distribution
+![Overall Customer Churn Distribution](outputs/01_overall_churn_distribution.png)
+
+### 2. Customer Engagement and Churn
+![Customer Engagement and Churn](outputs/02_churn_by_engagement.png)
+
+### 3. Churn by Number of Products
+![Churn by Number of Products](outputs/03_churn_by_product_count.png)
+
+### 4. Balance Distribution by Engagement
+![Balance Distribution by Engagement](outputs/04_balance_by_engagement.png)
+
+### 5. Customer Segment Churn Rates
+![Customer Segment Churn Rates](outputs/05_segment_churn_rates.png)
+
+### 6. Relationship Strength Index by Churn Status
+![Relationship Strength Index by Churn Status](outputs/06_relationship_strength_by_churn.png)
